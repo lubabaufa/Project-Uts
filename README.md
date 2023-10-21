@@ -98,7 +98,7 @@
         <th>HARGA</th>
       </tr>
     </thead>
-    <tbody>
+    <body>
       <tr>
         <td>Salad (Gambar 1)</td>
         <td>Rp. 20.000</td>
@@ -199,4 +199,6 @@
 <div class="mt-4 p-5 bg-dark text-white rounded">
   <h1>TERIMAKASIH ATAS KUNJUNGAN ANDA!</h1>
 </div>
+</body>
+</html>
   
