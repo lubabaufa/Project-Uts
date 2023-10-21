@@ -1,4 +1,3 @@
-
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -34,27 +33,6 @@
       </div>
     </nav>
   <body>
-    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-      
-      <div class="container-fluid">
-        <a class="navbar-brand" href="javascript:void(0)"></a>
-        <img src="https://th.bing.com/th/id/OIP.5h2BYp1hCqh7snUZS7eNdQHaHa?w=207&h=207&c=7&r=0&o=5&pid=1.7" class="rounded-pill" alt="Avatar Logo" style="width: 35px;">
-      
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="mynavbar">
-          <ul class="navbar-nav me-auto">          
-            <div class="btn-group">
-              <button type="button" class="btn btn-outline-primary">Menu</button>
-              <button type="button" class="btn btn-outline-primary">Daftar Harga</button>
-              <button type="button" class="btn btn-outline-primary">Pemesanan</button>
-            </div>
-          </ul>
-          
-        </div>
-      </div>
-    </nav>
 <div class="container-fluid p-5 border text-center">
   <h5>"Salad Fav"</h5>
   <p>Salad buah adalah makanan favorit di kalangan umum. Selain segar dan sehat, salad juga memliki rasa yang manis yang berasal dari buah yang masak dan juga campuran mayones dan agar-agar.</p> 
